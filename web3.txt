@@ -146,11 +146,16 @@ DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,blur.io
 DOMAIN-SUFFIX,element.market
 
+
 # BTC
 DOMAIN-SUFFIX,wizz.cash
 DOMAIN-SUFFIX,unisat.io
 DOMAIN-SUFFIX,geniidata.com
 DOMAIN-SUFFIX,mempool.space
+DOMAIN-SUFFIX,huehub.xyz
+DOMAIN-SUFFIX,joy.id
+DOMAIN-SUFFIX,satsx.io
+DOMAIN-SUFFIX,atomicalmarket.com
 
 # other project
 DOMAIN-SUFFIX,safe.global
