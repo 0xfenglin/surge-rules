@@ -86,6 +86,8 @@ DOMAIN-SUFFIX,pancakeswap.finance
 DOMAIN-SUFFIX,matcha.xyz
 DOMAIN-SUFFIX,babyswap.finance
 DOMAIN-SUFFIX,dodoex.io
+DOMAIN-SUFFIX,syncswap.xyz
+DOMAIN-SUFFIX,raydium.io
 DOMAIN-SUFFIX,dydx.exchange
 DOMAIN-SUFFIX,curve.fi
 DOMAIN-SUFFIX,sushi.com
@@ -96,6 +98,7 @@ DOMAIN-SUFFIX,traderjoexyz.com
 DOMAIN-SUFFIX,bungee.exchange
 DOMAIN-SUFFIX,jumper.exchange
 DOMAIN-SUFFIX,xy.finance
+DOMAIN-SUFFIX,owlto.finance
 DOMAIN-SUFFIX,stargate.finance
 
 # Lending protocol
@@ -108,6 +111,11 @@ DOMAIN-SUFFIX,kamino.finance
 
 # Perpetual Swap
 DOMAIN-SUFFIX,gmx.io
+DOMAIN-SUFFIX,myx.finance
+
+
+# web3 game
+DOMAIN-SUFFIX,battlemon.com
 
 # chain
 DOMAIN-SUFFIX,linea.build
@@ -127,11 +135,10 @@ DOMAIN-SUFFIX,zkscan.io
 
 
 # RPC / API / Tool
-DOMAIN-SUFFIX,chinalist
+DOMAIN-SUFFIX,chainlist.org
 DOMAIN-SUFFIX,alchemy.com
 DOMAIN-SUFFIX,ankr.com
 DOMAIN-SUFFIX,collab.land
-DOMAIN-SUFFIX,chainlist.org
 DOMAIN-SUFFIX,blocknative.com
 
 # nft
@@ -141,7 +148,6 @@ DOMAIN-SUFFIX,element.market
 
 # BTC
 DOMAIN-SUFFIX,wizz.cash
-DOMAIN-SUFFIX,unisat.io
 DOMAIN-SUFFIX,unisat.io
 DOMAIN-SUFFIX,geniidata.com
 DOMAIN-SUFFIX,mempool.space
