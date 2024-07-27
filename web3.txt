@@ -156,6 +156,10 @@ DOMAIN-SUFFIX,huehub.xyz
 DOMAIN-SUFFIX,joy.id
 DOMAIN-SUFFIX,satsx.io
 DOMAIN-SUFFIX,atomicalmarket.com
+DOMAIN-SUFFIX,bitvmcn.xyz
+DOMAIN-SUFFIX,bitlightlabs.com
+
+
 
 # other project
 DOMAIN-SUFFIX,safe.global
