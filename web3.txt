@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,bullish.com
 DOMAIN-SUFFIX,bitstamp.net
 DOMAIN-SUFFIX,bitpanda.com
 DOMAIN-SUFFIX,bithumb.com
+DOMAIN-SUFFIX,bitget.com
 
 
 DOMAIN-SUFFIX,saasexch.cc
