@@ -159,6 +159,7 @@ DOMAIN-SUFFIX,satsx.io
 DOMAIN-SUFFIX,atomicalmarket.com
 DOMAIN-SUFFIX,bitvmcn.xyz
 DOMAIN-SUFFIX,bitlightlabs.com
+DOMAIN-SUFFIX,magiceden.io
 
 
 
