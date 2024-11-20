@@ -1,5 +1,6 @@
-#AI 处理图片
+#海外域名
 DOMAIN-SUFFIX,cutout.pro
 DOMAIN-SUFFIX,promeai.pro
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,topreels.com
+DOMAIN-SUFFIX,akamai.com
