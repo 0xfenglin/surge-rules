@@ -186,3 +186,4 @@ DOMAIN-SUFFIX,beefy.com
 DOMAIN-SUFFIX,friend.tech
 DOMAIN-SUFFIX,io.net
 DOMAIN-SUFFIX,blockjoker.org
+DOMAIN-SUFFIX,side.one
