@@ -161,7 +161,9 @@ DOMAIN-SUFFIX,bitvmcn.xyz
 DOMAIN-SUFFIX,bitlightlabs.com
 DOMAIN-SUFFIX,magiceden.io
 
-
+# SOL
+DOMAIN-SUFFIX,gmgn.ai
+DOMAIN-SUFFIX,raydium.io
 
 # other project
 DOMAIN-SUFFIX,safe.global
