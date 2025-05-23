@@ -164,6 +164,7 @@ DOMAIN-SUFFIX,magiceden.io
 # SOL
 DOMAIN-SUFFIX,gmgn.ai
 DOMAIN-SUFFIX,raydium.io
+DOMAIN-SUFFIX,gitfish.dev
 
 # other project
 DOMAIN-SUFFIX,safe.global
