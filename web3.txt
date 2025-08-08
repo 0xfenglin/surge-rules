@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN-SUFFIX,keplr.app
 DOMAIN-SUFFIX,keyst.one
 DOMAIN-SUFFIX,1key.so
+DOMAIN-SUFFIX,bitlightlabs.com
 
 # k线
 DOMAIN-SUFFIX,coinmarketcap.com
