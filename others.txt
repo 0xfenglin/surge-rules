@@ -1,4 +1,5 @@
 #海外域名
+DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,cutout.pro
 DOMAIN-SUFFIX,promeai.pro
 DOMAIN-SUFFIX,cloudfront.net
