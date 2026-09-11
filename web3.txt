@@ -169,3 +169,4 @@ DOMAIN-SUFFIX,sablier.com
 DOMAIN-SUFFIX,beefy.com
 DOMAIN-SUFFIX,io.net
 DOMAIN-SUFFIX,side.one
+DOMAIN-SUFFIX,world.xyz
