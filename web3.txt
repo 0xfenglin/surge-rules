@@ -170,3 +170,4 @@ DOMAIN-SUFFIX,beefy.com
 DOMAIN-SUFFIX,io.net
 DOMAIN-SUFFIX,side.one
 DOMAIN-SUFFIX,world.xyz
+DOMAIN-SUFFIX,unihexa.io
